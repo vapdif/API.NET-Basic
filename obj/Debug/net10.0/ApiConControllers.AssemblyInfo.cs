@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiConControllers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7abed0e072eb23ef2a2336e4156d84fc0762d126")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiConControllers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiConControllers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
